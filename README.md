@@ -1,0 +1,2 @@
+# procfile
+web: npm start
